@@ -12,8 +12,7 @@
 Daniel Stenberg <daniel@haxx.se>
 Brad House <brad@brad-house.com>
 
-<img src="https://strace.io/Straus.png
-" width="64" height="64">
+<img src="https://strace.io/Straus.png" width="64" height="64">
 
 **[strace](https://strace.io/)** - Linux syscall tracer.
 
